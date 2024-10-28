@@ -10,10 +10,10 @@
  */
 
 // Part 1 answer 👇🏻 ...
-let fullName="Shahad AlQahtani";
-let yearOfBirth= 1993;
-let hobby="reading";
-let funFact="funny";
+const fullName="Shahad AlQahtani";
+const yearOfBirth= 1993;
+const hobby="reading";
+const funFact="funny";
 const image= "https://media.istockphoto.com/id/183354852/photo/pot-of-honey.jpg?s=612x612&w=0&k=20&c=imrFFTwbVvOCi2qczmWC7W_s9aL3nXd90QG21-QUwoA=";
 
 
