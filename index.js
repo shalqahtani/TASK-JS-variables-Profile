@@ -33,9 +33,9 @@ const image= "https://media.istockphoto.com/id/183354852/photo/pot-of-honey.jpg?
  * Uncomment the following lines and start interpolating.
  * You can uncomment a line by removing the // at the start
  */
-let myAge=2024-1993;
+
  const fullNameString = `My name is ${fullName}`;
- const yearOfBirthString =`I am ${myAge}`;
+ const yearOfBirthString =`I am ${2024-yearOfBirth}`;
  const hobbyString =`My hobby is ${hobby}`;
 
 
